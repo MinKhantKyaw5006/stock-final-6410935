@@ -1,9 +1,23 @@
    <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 
   Web Dev Final Exam 
+  Min Khant Kyaw
+  6410935
 </h1>
 
-This is the work for final exam , supplier page 
+ Work Submission for final exam , supplier page 
+
+## Outline
+
+  1.  **About**
+
+    
+
+  2.  **Stack**
+
+ 
+
+  3.  **Progress**
 
 
 ## Stack
@@ -27,7 +41,7 @@ This is the work for final exam , supplier page
 
 2.  **Add and Delete functions**
 
-    .
+    
 
 3.  **Moderate CSS**
     
@@ -35,6 +49,6 @@ This is the work for final exam , supplier page
 4.  **Link Nextjs and Atlas Mongo**
 
 
-5.  **Deply on Vercel**
+5.  **Deploy on Vercel**
 
 <!-- AUTO-GENERATED-CONTENT:END -->
