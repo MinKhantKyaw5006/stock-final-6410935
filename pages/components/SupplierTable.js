@@ -1,4 +1,6 @@
 import { useState } from 'react';
+import 'bootstrap/dist/css/bootstrap.min.css';
+
 
 function SupplierTable() {
   const [suppliers, setSuppliers] = useState([]);
@@ -36,9 +38,9 @@ function SupplierTable() {
           Address:
           <input type="text" value={address} onChange={event => setAddress(event.target.value)} />
         </label>
-        <button type="submit">Add supplier</button>
+        <button type="submit" className="btn btn-primary">Add supplier</button>
       </form>
-      <table>
+      <table className="table table-striped">
         <thead>
           <tr>
             <th>Name</th>
