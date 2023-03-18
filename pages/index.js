@@ -50,7 +50,7 @@ export default function Home() {
           <a>Go to Supplier Management</a>
         </Link> */}
         <SupplierTable />
-        <SupplierManagement/>
+        
       </main>
     </>
   );
