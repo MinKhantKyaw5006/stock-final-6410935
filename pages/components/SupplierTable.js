@@ -25,7 +25,6 @@ function SupplierTable() {
 
   return (
     <div>
-      <h1>Supplier Website</h1>
       <form onSubmit={handleSubmit}>
         <label>
           Supplier name:
