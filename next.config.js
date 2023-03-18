@@ -3,4 +3,15 @@ const nextConfig = {
   reactStrictMode: true,
 }
 
-module.exports = nextConfig
+// module.exports = nextConfig
+
+module.exports = {
+  async rewrites() {
+    return [
+      {
+        source: '/suppliermanagement',
+        destination: '/suppliermanagement.js',
+      },
+    ];
+  },
+};
