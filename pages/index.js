@@ -46,9 +46,9 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main className={styles.main}>
-        <Link href="/supplier-management">
+        {/* <Link href="/supplier-management">
           <a>Go to Supplier Management</a>
-        </Link>
+        </Link> */}
         <SupplierTable />
         <SupplierManagement/>
       </main>
