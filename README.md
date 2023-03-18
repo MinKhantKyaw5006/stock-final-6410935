@@ -55,17 +55,21 @@
       user inputs.Added and Deletion Fuctions.
 
 2.  **Add and Delete functions**
+
       Add function partially works
       Delete function partially works
 
 3.  **Moderate CSS**
+
       bootstrap and other css styling
 
 4.  **Link Nextjs and Atlas Mongo**
+
       successful linking between nextjs and mongo
       Tested data model for name, phone number , address
 
 5.  **Deploy on Vercel**
+
       Successful Deployment on Vercel 
       https://stock-final-6410935.vercel.app/
 <!-- AUTO-GENERATED-CONTENT:END -->
