@@ -15,7 +15,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main className={styles.main}>
-        <div className={styles.description}>
+        {/* <div className={styles.description}>
           <p>
             Hello world
           </p>
@@ -115,7 +115,7 @@ export default function Home() {
               with&nbsp;Vercel.
             </p>
           </a>
-        </div>
+        </div> */}
       </main>
     </>
   )
