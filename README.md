@@ -9,26 +9,32 @@
 
 ## Outline
 
-  1.  **About**
-
+  1.  **Outline**
     
-
   2.  **Stack**
-
- 
 
   3.  **Progress**
 
+  4.  **Style**
+
+  5.  **Database**
+
+  6.  **Deployment**
+
+
+
+## About
+      This is supplier and supplier management where users can add , delete the supplier data on the main supplier page. This project is a next and mongodb project deployed on vercel.
 
 ## Stack
 
 1.  **Nextjs**
-
+      Nextjs npx create-next-app is initialized.
     
 
 2.  **Mongoose**
 
- 
+ sdff
 
 3.  **bootstrap**
 
