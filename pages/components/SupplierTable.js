@@ -131,9 +131,9 @@ function SupplierTable() {
         </tbody>
       </table>
       <div className="text-center">
-        <Link href="/supplier-management">
+        {/* <Link href="/supplier-management">
           <a className="btn btn-secondary mt-3">Go to Supplier Management</a>
-        </Link>
+        </Link> */}
       </div>
     </div>
   );
