@@ -38,7 +38,7 @@ function SupplierTable() {
           Address:
           <input type="text" value={address} onChange={event => setAddress(event.target.value)} />
         </label>
-        <button type="submit" className="btn btn-primary">Add supplier</button>
+        <button type="submit" className="btn btn-primary ml-2">Add supplier</button>
       </form>
       <table className="table table-striped">
         <thead>
