@@ -24,7 +24,9 @@
 
 
 ## About
-      This is supplier and supplier management where users can add , delete the supplier data on the main supplier page. This project is a next and mongodb project deployed on vercel.
+      This is supplier and supplier management where users can add ,
+       delete the supplier data on the main supplier page. 
+       This project is a next and mongodb project deployed on vercel.
 
 ## Stack
 
