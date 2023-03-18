@@ -6,11 +6,17 @@
 </h1>
 
 ## Description
+
    Work Submission for final exam , supplier page 
 
+   User can input Supplier Name, Phone Number and Address of supplier 
+   to add them to the table list, and user can also delete.
+
 ## Developer
+
    Min Khant Kyaw
    6410935
+
 ## Outline
 
   1.  **Outline**
