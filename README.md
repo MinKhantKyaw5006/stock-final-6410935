@@ -32,13 +32,21 @@
 
 1.  **Nextjs**
       Nextjs npx create-next-app is initialized.
+      Index.js and mongodb.js are created to connect to mongodb
+      SupplierTable.js includes the main table system for supplier data model
     
 
 2.  **Mongoose**
+      Mongoose is installed to work for database. 
+      Cluster is created and atlas mongodb string is copied int the MONGODB-URI
 
- sdff
+ 
 
 3.  **bootstrap**
+      Bootstrap is used for styling.
+      The suppliertable has seperate includes seperate css files
+
+
 
 
 ## Progress
