@@ -13,9 +13,8 @@
     
   2.  **Stack**
 
-  3.  **Progress**
+  3.  **Progress and Deployment**
 
-  4.  **Deployment**
 
 
 
